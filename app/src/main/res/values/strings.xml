@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string-array name="questions">
+        <item>What is the capital of France?</item>
+        <item>Who developed the theory of relativity?</item>
+        <item>What is the largest planet in our solar system?</item>
+        <item>Which element has the chemical symbol \'O\'?</item>
+        <item>What is the smallest unit of life?</item>
+        <item>Who wrote \'To Kill a Mockingbird\'?</item>
+        <item>What is the hardest natural substance on Earth?</item>
+        <item>Which planet is known as the Red Planet?</item>
+        <item>What is the largest ocean on Earth?</item>
+        <item>Who painted the Mona Lisa?</item>
+        <item>What is the capital of Japan?</item>
+        <item>Which gas do plants use for photosynthesis?</item>
+        <item>Who is known as the Father of Computers?</item>
+        <item>What is the chemical formula for water?</item>
+        <item>What is the largest continent by area?</item>
+        <item>Who was the first person to step on the moon?</item>
+        <item>What is the main ingredient in guacamole?</item>
+        <item>Which country is known as the Land of the Rising Sun?</item>
+        <item>Who wrote the play \'Romeo and Juliet\'?</item>
+        <item>What is the smallest country in the world?</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>Paris</item>
+        <item>Albert Einstein</item>
+        <item>Jupiter</item>
+        <item>Oxygen</item>
+        <item>Cell</item>
+        <item>Harper Lee</item>
+        <item>Diamond</item>
+        <item>Mars</item>
+        <item>Pacific Ocean</item>
+        <item>Leonardo da Vinci</item>
+        <item>Tokyo</item>
+        <item>Carbon Dioxide</item>
+        <item>Charles Babbage</item>
+        <item>H2O</item>
+        <item>Asia</item>
+        <item>Neil Armstrong</item>
+        <item>Avocado</item>
+        <item>Japan</item>
+        <item>William Shakespeare</item>
+        <item>Vatican City</item>
+    </string-array>
+
+    <string-array name="q1_options">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+    </string-array>
+
+    <string-array name="q2_options">
+        <item>Isaac Newton</item>
+        <item>Albert Einstein</item>
+        <item>Galileo Galilei</item>
+        <item>Marie Curie</item>
+    </string-array>
+
+    <string-array name="q3_options">
+        <item>Earth</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+    </string-array>
+
+    <string-array name="q4_options">
+        <item>Hydrogen</item>
+        <item>Oxygen</item>
+        <item>Carbon</item>
+        <item>Nitrogen</item>
+    </string-array>
+
+    <string-array name="q5_options">
+        <item>Molecule</item>
+        <item>Cell</item>
+        <item>Atom</item>
+        <item>Organ</item>
+    </string-array>
+
+    <string-array name="q6_options">
+        <item>Harper Lee</item>
+        <item>J.K. Rowling</item>
+        <item>Mark Twain</item>
+        <item>Jane Austen</item>
+    </string-array>
+
+    <string-array name="q7_options">
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+        <item>Ruby</item>
+    </string-array>
+
+    <string-array name="q8_options">
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Saturn</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string-array name="q9_options">
+        <item>Atlantic Ocean</item>
+        <item>Indian Ocean</item>
+        <item>Arctic Ocean</item>
+        <item>Pacific Ocean</item>
+    </string-array>
+
+    <string-array name="q10_options">
+        <item>Pablo Picasso</item>
+        <item>Vincent van Gogh</item>
+        <item>Leonardo da Vinci</item>
+        <item>Claude Monet</item>
+    </string-array>
+
+    <string-array name="q11_options">
+        <item>Tokyo</item>
+        <item>Seoul</item>
+        <item>Beijing</item>
+        <item>Bangkok</item>
+    </string-array>
+
+    <string-array name="q12_options">
+        <item>Oxygen</item>
+        <item>Nitrogen</item>
+        <item>Hydrogen</item>
+        <item>Carbon Dioxide</item>
+    </string-array>
+
+    <string-array name="q13_options">
+        <item>Alan Turing</item>
+        <item>Charles Babbage</item>
+        <item>John von Neumann</item>
+        <item>Steve Jobs</item>
+    </string-array>
+
+    <string-array name="q14_options">
+        <item>H2O</item>
+        <item>CO2</item>
+        <item>O2</item>
+        <item>NaCl</item>
+    </string-array>
+
+    <string-array name="q15_options">
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>Africa</item>
+        <item>North America</item>
+    </string-array>
+
+    <string-array name="q16_options">
+        <item>Yuri Gagarin</item>
+        <item>Neil Armstrong</item>
+        <item>Buzz Aldrin</item>
+        <item>Michael Collins</item>
+    </string-array>
+
+    <string-array name="q17_options">
+        <item>Tomato</item>
+        <item>Avocado</item>
+        <item>Cucumber</item>
+        <item>Onion</item>
+    </string-array>
+
+    <string-array name="q18_options">
+        <item>South Korea</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Thailand</item>
+    </string-array>
+
+    <string-array name="q19_options">
+        <item>William Shakespeare</item>
+        <item>Christopher Marlowe</item>
+        <item>Ben Jonson</item>
+        <item>John Webster</item>
+    </string-array>
+
+    <string-array name="q20_options">
+        <item>Monaco</item>
+        <item>San Marino</item>
+        <item>Vatican City</item>
+        <item>Liechtenstein</item>
+    </string-array>
+</resources>
+
